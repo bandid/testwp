@@ -1,0 +1,58 @@
+{
+  "categories": ["Free", "Premium", "eCommerce", "Business & Corporate", "Portfolio", "Educational"],
+  "templates": [
+    {
+      "id": "bltyoya",
+      "name": "Bltyoga",
+      "description": "A sleek and modern yoga website template featuring a clean layout and elegant typography.",
+      "category": ["Premium"],
+      "screenshot": "https://dev.appwist.com/templates/screenshots/bltyoga.jpg",
+      "preview_url": "https://dev.appwist.com/templates/previews/bltyoga",
+	  "content": "https://dev.appwist.com/templates/interio/content.xml",
+	  "widgets": "https://dev.appwist.com/templates/interio/widgets.wie",
+	  "customizer": "https://dev.appwist.com/templates/interio/customizer.dat",
+	  "global_styles": "https://dev.appwist.com/templates/interio/global-settings.json",
+      "import_file": "https://dev.appwist.com/templates/files/bltyoga.json"
+    },
+    {
+      "id": "shopwise",
+      "name": "ShopWise",
+      "description": "An elegant and responsive eCommerce template for fashion stores and online shops.",
+      "category": ["eCommerce", "Premium"],
+      "screenshot": "https://dev.appwist.com/templates/screenshots/shopwise.jpg",
+      "preview_url": "https://dev.appwist.com/templates/previews/shopwise",
+	  "global_styles": "https://dev.appwist.com/templates/interio/global-settings.json",
+      "import_file": "https://dev.appwist.com/templates/files/shopwise.json"
+    },
+    {
+      "id": "startupx",
+      "name": "StartupX",
+      "description": "A high-energy startup landing page with bold design and conversion-focused elements.",
+      "category": ["Business & Corporate", "Free"],
+      "screenshot": "https://dev.appwist.com/templates/screenshots/startupx.jpg",
+      "preview_url": "https://dev.appwist.com/templates/previews/startupx",
+	  "global_styles": "https://dev.appwist.com/templates/interio/global-settings.json",
+      "import_file": "https://dev.appwist.com/templates/files/startupx.json"
+    },
+    {
+      "id": "folioartist",
+      "name": "FolioArtist",
+      "description": "A minimalist portfolio template perfect for photographers and creative professionals.",
+      "category": ["Portfolio", "Premium"],
+      "screenshot": "https://dev.appwist.com/templates/screenshots/folioartist.jpg",
+      "preview_url": "https://dev.appwist.com/templates/previews/folioartist",
+	  "global_styles": "https://dev.appwist.com/templates/interio/global-settings.json",
+      "import_file": "https://dev.appwist.com/templates/files/folioartist.json"
+    },
+    {
+      "id": "edulearn",
+      "name": "EduLearn",
+      "description": "A modern educational template designed for online courses and schools.",
+      "category": ["Educational", "Free"],
+      "screenshot": "https://dev.appwist.com/templates/screenshots/edulearn.jpg",
+      "preview_url": "https://dev.appwist.com/templates/previews/edulearn",
+	  "global_styles": "https://dev.appwist.com/templates/interio/global-settings.json",
+      "import_file": "https://dev.appwist.com/templates/files/edulearn.json"
+    }
+  ]
+}
