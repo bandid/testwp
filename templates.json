@@ -6,13 +6,13 @@
       "name": "Bltyoga",
       "description": "A sleek and modern yoga website template featuring a clean layout and elegant typography.",
       "category": ["Premium"],
-      "screenshot": "https://dev.appwist.com/templates/screenshots/bltyoga.jpg",
+      "screenshot": "https://github.com/bandid/testwp/blob/main/templates/bltyoga/files/bltyoga.jpg",
       "preview_url": "https://dev.appwist.com/templates/previews/bltyoga",
-	  "content": "https://dev.appwist.com/templates/interio/content.xml",
-	  "widgets": "https://dev.appwist.com/templates/interio/widgets.wie",
-	  "customizer": "https://dev.appwist.com/templates/interio/customizer.dat",
-	  "global_styles": "https://dev.appwist.com/templates/interio/global-settings.json",
-      "import_file": "https://dev.appwist.com/templates/files/bltyoga.json"
+	  "content": "https://github.com/bandid/testwp/blob/main/templates/bltyoga/files/content.xml",
+	  "widgets": "https://github.com/bandid/testwp/blob/main/templates/bltyoga/files/widgets.wie",
+	  "customizer": "https://github.com/bandid/testwp/blob/main/templates/bltyoga/files/customizer.dat",
+	  "global_styles": "https://github.com/bandid/testwp/blob/main/templates/bltyoga/files/global-settings.json",
+      "import_file": "https://github.com/bandid/testwp/blob/main/templates/bltyoga/files/bltyoga.json"
     },
     {
       "id": "shopwise",
